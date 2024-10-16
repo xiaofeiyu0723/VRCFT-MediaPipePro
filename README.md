@@ -29,3 +29,4 @@ TODO
 * [Dazbme/OG module author](https://github.com/Dazbme/VRCFaceTracking-LiveLink)
 * [regzo2(Azmidi)/VRCFT module lord](https://github.com/regzo2)
 * [VRCFaceTracking-LiveLink](https://github.com/kusomaigo/VRCFaceTracking-LiveLink/tree/main)
+* [VRCFT-MediaPipe](https://github.com/Codel1417/VRCFT-MediaPipe)
