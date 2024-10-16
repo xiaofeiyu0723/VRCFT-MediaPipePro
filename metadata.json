@@ -1,0 +1,16 @@
+{
+    "ModuleId": "A4FA5C7F-BB02-45EA-BD22-020BD2DC828C",
+    "AuthorName": "Finn",
+    "DllFileName": "VRCFT-MediapipePro.dll",
+    "Downloads": 0,
+    "DownloadUrl": "",
+    "LastUpdated": "2023-05-20T01:00:00Z",
+    "ModuleDescription": "The module provides face tracking data from compatible iPhone and iPads for use with VRCFT",
+    "ModuleName": "MediapipePro",
+    "ModulePageUrl": "Temp",
+    "Rating": 0,
+    "Ratings": 0,
+    "RatingSum": 0,
+    "UsageInstructions": "Follow instructions on docs.vrcft.io website for the ARKit LiveLink module.",
+    "Version": "1.0"
+}
