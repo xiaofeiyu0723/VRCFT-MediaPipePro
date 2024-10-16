@@ -1,5 +1,5 @@
 # VRCFT MediaPipePro Module
-Compatible with VRCFaceTracking v5.0.0+
+Additionally supports tongue tracking. Compatible with VRCFaceTracking v5.0.0+
 
 Note that the tracking will only realistically work *without a headset on your face*.
 
