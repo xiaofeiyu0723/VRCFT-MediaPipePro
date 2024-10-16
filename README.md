@@ -28,3 +28,4 @@ TODO
 * [benaclejames/VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking)
 * [Dazbme/OG module author](https://github.com/Dazbme/VRCFaceTracking-LiveLink)
 * [regzo2(Azmidi)/VRCFT module lord](https://github.com/regzo2)
+* [VRCFaceTracking-LiveLink](https://github.com/kusomaigo/VRCFaceTracking-LiveLink/tree/main)
