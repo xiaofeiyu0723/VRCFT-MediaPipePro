@@ -9,7 +9,7 @@ TODO
 
 - Install [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking)
 - Copy the `VRCFT-MediapipePro.dll` into your `%AppData%\Roaming\VRCFaceTracking\CustomLibs` folder
-  - **Find the .dll under "Assets" in the [latest release](https://github.com/kusomaigo/VRCFaceTracking-LiveLink/releases/latest)**
+  - **Find the .dll under "Assets" in the [latest release](https://github.com/xiaofeiyu0723/VRCFT-MediaPipePro/releases/tag/MediaPipePro)**
   - Until the module gets approved to show in the module registry, this custom method is how it must be!
 - Install TODO
 - Start VRCFaceTracking, then change to the Output page
