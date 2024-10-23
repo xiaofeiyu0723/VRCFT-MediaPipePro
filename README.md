@@ -14,7 +14,7 @@ TODO
 - Install TODO
 - Start VRCFaceTracking, then change to the Output page
 - TODO
-- Start VRChat, equip a VRCFT-enabled avatar, and enjoy facial tracking!
+- Start VRChat, equip a VRCFT-enabled avatar, and enjoy facial tracking!!!
 
 ## 🔍 Troubleshooting
 
